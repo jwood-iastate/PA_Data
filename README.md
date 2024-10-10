@@ -1,2 +1,2 @@
 # PA_Data
-Some PA-related data files
+This repo houses some Pennsylvania data files for use in courses I teach.
